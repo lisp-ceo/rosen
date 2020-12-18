@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/awnumar/rosen/protocols/config"
-	"github.com/awnumar/rosen/protocols/https"
-	"github.com/awnumar/rosen/proxy"
+	"github.com/lisp-ceo/rosen/protocols/config"
+	"github.com/lisp-ceo/rosen/protocols/https"
+	"github.com/lisp-ceo/rosen/proxy"
 
 	"github.com/eahydra/socks"
 )

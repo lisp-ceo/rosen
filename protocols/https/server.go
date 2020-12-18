@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/awnumar/rosen/protocols/config"
-	"github.com/awnumar/rosen/proxy"
+	"github.com/lisp-ceo/rosen/protocols/config"
+	"github.com/lisp-ceo/rosen/proxy"
 )
 
 // Server implements a HTTP tunnel server.
